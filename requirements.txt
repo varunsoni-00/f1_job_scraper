@@ -1,0 +1,11 @@
+# main.py requirements
+requests
+openpyxl
+xlsxwriter
+pandas
+numpy
+
+# scrappy.py requirements
+requests
+dateparser
+beautifulsoup4
